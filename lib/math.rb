@@ -14,8 +14,9 @@ end
 division(10,5)
 
 def multiplication(num1, num2)
-
+  return num1 * num2
 end
+multiplication(10,5)
 
 # def modulo(num1, num2)
 #   puts num1.modulo(num1)
