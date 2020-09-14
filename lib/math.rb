@@ -16,8 +16,9 @@ addition('1','2')
 # end
 
 def modulo(num1, num2)
-
+  return num2 % num1
 end
+modulo()
 
 def square_root(num)
   return Math.sqrt(num)
