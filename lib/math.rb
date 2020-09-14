@@ -15,10 +15,10 @@ addition('1','2')
 
 # end
 
-def modulo(num1, num2)
-  puts num1.modulo(num1)
-end
-modulo(5, 34)
+# def modulo(num1, num2)
+#   puts num1.modulo(num1)
+# end
+# modulo(5, 34)
 
 def square_root(num)
   return Math.sqrt(num)
