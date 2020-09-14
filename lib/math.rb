@@ -19,9 +19,9 @@ end
 multiplication(10,5)
 
 def modulo(num1, num2)
-  punum1.modulo(num1)
+  num1 % num2
 end
-modulo(5, 34)
+modulo(35, 4)
 
 # def square_root(num)
 #   return Math.sqrt(num)
