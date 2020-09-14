@@ -13,9 +13,9 @@ def division(num1, num2)
 end
 division(10,5)
 
-# def multiplication(num1, num2)
+def multiplication(num1, num2)
 
-# end
+end
 
 # def modulo(num1, num2)
 #   puts num1.modulo(num1)
