@@ -16,7 +16,7 @@ addition('1','2')
 # end
 
 def modulo(num1, num2)
-  return num2 % num1
+  puts num1
 end
 modulo(5, 34)
 
